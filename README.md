@@ -14,22 +14,15 @@ Um **portfólio web profissional e responsivo** desenvolvido com React, TypeScri
 
 ## 📋 Índice
 
-- [Visão Geral](#visão-geral)
-- [Características](#características)
-- [Stack Tecnológico](#stack-tecnológico)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Páginas](#páginas)
-- [Heurísticas de Nielsen](#heurísticas-de-nielsen)
-- [Acessibilidade](#acessibilidade)
-- [Responsividade](#responsividade)
-- [Desenvolvimento](#desenvolvimento)
-- [Build e Deploy](#build-e-deploy)
-- [Documentação](#documentação)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+| [Visão Geral](#visão-geral) | [Características](#características) | [Stack Tecnológico](#stack-tecnológico) | [Instalação](#instalação) | [Como Usar](#como-usar) | [Estrutura do Projeto](#estrutura-do-projeto) |
+|-----------|--------|-----------|-----------|-----------|--------|
+
+
+| [Heurísticas de Nielsen](#heurísticas-de-nielsen) | [Acessibilidade](#acessibilidade) | [Responsividade](#responsividade) | [Desenvolvimento](#desenvolvimento) | [Build e Deploy](#build-e-deploy) | [Páginas](#páginas) |
+|-----------|--------|-----------|-----------|-----------|--------|
+
+| [Documentação](#documentação) | [Contribuindo](#contribuindo) | [Licença](#licença) | [Contato](#contato) |
+|-----------|--------|-----------|-----------|
 
 ---
 
