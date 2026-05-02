@@ -1,4 +1,4 @@
-# 🎯 Portfólio Pessoal
+# Portfólio Pessoal
 
 [![React](https://img.shields.io/badge/React-19.2.1-61dafb?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
