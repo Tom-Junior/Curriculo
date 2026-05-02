@@ -1,4 +1,4 @@
-# 🎯 Portfólio Pessoal - Antônio Evangelista Ribeiro Júnior
+# Portfólio Pessoal
 
 [![React](https://img.shields.io/badge/React-19.2.1-61dafb?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -8,28 +8,18 @@
 
 Um **portfólio web profissional e responsivo** desenvolvido com React, TypeScript e Tailwind CSS, aplicando princípios de UX/UI e as 10 Heurísticas de Nielsen.
 
-**🌐 [Acesse o Portfólio Online](https://antonfolio-uwkhct8c.manus.space)**
-
 ---
 
 ## 📋 Índice
 
-- [Visão Geral](#visão-geral)
-- [Características](#características)
-- [Stack Tecnológico](#stack-tecnológico)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Páginas](#páginas)
-- [Heurísticas de Nielsen](#heurísticas-de-nielsen)
-- [Acessibilidade](#acessibilidade)
-- [Responsividade](#responsividade)
-- [Desenvolvimento](#desenvolvimento)
-- [Build e Deploy](#build-e-deploy)
-- [Documentação](#documentação)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+| [Visão Geral](#visão-geral) | [Características](#características) | [Stack Tecnológico](#stack-tecnológico) | [Instalação](#instalação) | [Como Usar](#como-usar) | [Estrutura do Projeto](#estrutura-do-projeto) |
+|-----------|--------|-----------|-----------|-----------|--------|
+
+| [Heurísticas de Nielsen](#heurísticas-de-nielsen) | [Acessibilidade](#acessibilidade) | [Responsividade](#responsividade) | [Desenvolvimento](#desenvolvimento) | [Build e Deploy](#build-e-deploy) | [Páginas](#páginas) |
+|-----------|--------|-----------|-----------|-----------|--------|
+
+| [Documentação](#documentação) | [Contribuindo](#contribuindo) | [Licença](#licença) | [Contato](#contato) |
+|-----------|--------|-----------|-----------|
 
 ---
 
@@ -513,9 +503,6 @@ pnpm run build
 Este projeto inclui documentação completa:
 
 - **[README.md](README.md)** - Este arquivo
-- **[DOCUMENTACAO.md](DOCUMENTACAO.md)** - Documentação técnica detalhada
-- **[REVISAO_DESIGN.md](REVISAO_DESIGN.md)** - Revisão de design e usabilidade
-- **[GUIA_VSCODE_WINDOWS.md](GUIA_VSCODE_WINDOWS.md)** - Guia para VS Code no Windows
 
 ---
 
@@ -534,17 +521,6 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📝 Licença
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 Contato
-
-**Antônio Evangelista Ribeiro Júnior**
-
-- 📧 **Email:** aerj_ce1@hotmail.com
-- 📱 **Telefone:** (85) 99716-5696
-- 💼 **LinkedIn:** [@antonioerjunior](https://linkedin.com/in/antonioerjunior)
-- 📍 **Localização:** Fortaleza, Ceará - Brasil
 
 ---
 
@@ -601,6 +577,6 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
 ---
 
-**Desenvolvido com ❤️ por Antônio Evangelista Ribeiro Júnior**
+**Desenvolvido com ❤️ por @Tom-Junior**
 
 **Última atualização:** Maio de 2026
