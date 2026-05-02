@@ -503,9 +503,6 @@ pnpm run build
 Este projeto inclui documentação completa:
 
 - **[README.md](README.md)** - Este arquivo
-- **[DOCUMENTACAO.md](DOCUMENTACAO.md)** - Documentação técnica detalhada
-- **[REVISAO_DESIGN.md](REVISAO_DESIGN.md)** - Revisão de design e usabilidade
-- **[GUIA_VSCODE_WINDOWS.md](GUIA_VSCODE_WINDOWS.md)** - Guia para VS Code no Windows
 
 ---
 
@@ -524,17 +521,6 @@ Contribuições são bem-vindas! Para contribuir:
 ## 📝 Licença
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 Contato
-
-**Antônio Evangelista Ribeiro Júnior**
-
-- 📧 **Email:** aerj_ce1@hotmail.com
-- 📱 **Telefone:** (85) 99716-5696
-- 💼 **LinkedIn:** [@antonioerjunior](https://linkedin.com/in/antonioerjunior)
-- 📍 **Localização:** Fortaleza, Ceará - Brasil
 
 ---
 
@@ -591,6 +577,6 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
 ---
 
-**Desenvolvido com ❤️ por Antônio Evangelista Ribeiro Júnior**
+**Desenvolvido com ❤️ por @Tom-Juior**
 
 **Última atualização:** Maio de 2026
