@@ -8,15 +8,12 @@
 
 Um **portfólio web profissional e responsivo** desenvolvido com React, TypeScript e Tailwind CSS, aplicando princípios de UX/UI e as 10 Heurísticas de Nielsen.
 
-**🌐 [Acesse o Portfólio Online](https://antonfolio-uwkhct8c.manus.space)**
-
 ---
 
 ## 📋 Índice
 
 | [Visão Geral](#visão-geral) | [Características](#características) | [Stack Tecnológico](#stack-tecnológico) | [Instalação](#instalação) | [Como Usar](#como-usar) | [Estrutura do Projeto](#estrutura-do-projeto) |
 |-----------|--------|-----------|-----------|-----------|--------|
-
 
 | [Heurísticas de Nielsen](#heurísticas-de-nielsen) | [Acessibilidade](#acessibilidade) | [Responsividade](#responsividade) | [Desenvolvimento](#desenvolvimento) | [Build e Deploy](#build-e-deploy) | [Páginas](#páginas) |
 |-----------|--------|-----------|-----------|-----------|--------|
