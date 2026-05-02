@@ -25,7 +25,7 @@ Um **portfólio web profissional e responsivo** desenvolvido com React, TypeScri
 
 ## 🎨 Visão Geral
 
-Este projeto é um **portfólio web completo** que apresenta a trajetória profissional, formação acadêmica e projetos de **Antônio Evangelista Ribeiro Júnior**, especialista em Contabilidade, Ciência de Dados e Tecnologia.
+Este projeto é um **portfólio web completo** que apresenta a trajetória profissional, formação acadêmica e projetos de **Tom-Junior**, especialista em Contabilidade, Ciência de Dados e Tecnologia.
 
 O design segue a filosofia de **Minimalismo Corporativo Elegante**, priorizando clareza, profissionalismo e experiência do usuário. Todas as páginas foram desenvolvidas seguindo rigorosamente as **10 Heurísticas de Usabilidade de Nielsen**.
 
