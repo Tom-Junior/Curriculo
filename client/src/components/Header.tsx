@@ -31,10 +31,10 @@ export default function Header() {
         <Link href="/">
           <a className="flex items-center gap-2 hover:opacity-80 transition-opacity duration-300">
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-lg">AE</span>
+              <span className="text-primary-foreground font-display font-bold text-lg">AJ</span>
             </div>
             <span className="hidden sm:inline font-display font-bold text-lg text-foreground">
-              Antônio Ribeiro
+              Antônio Júnior
             </span>
           </a>
         </Link>

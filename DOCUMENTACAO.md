@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral do Projeto
 
-Este projeto é um **protótipo de portfólio web profissional** desenvolvido como atividade de conclusão do Módulo 4 (Padrões de Interface e Prototipação) do curso de Educação em Direitos Humanos com foco em Tecnologia.
+Este projeto é um **Portfólio Web Profissional** desenvolvido como atividade avaliativa do curso de Tecnologia da Informação da disciplina  de Interface Humano Computador.
 
 **Desenvolvedor:** Antônio Evangelista Ribeiro Júnior  
 **Data de Criação:** Maio de 2026  
@@ -12,7 +12,7 @@ Este projeto é um **protótipo de portfólio web profissional** desenvolvido co
 
 ## 🎯 Objetivos do Projeto
 
-1. Aplicar conhecimentos de **padrões de interface** estudados no Módulo 4
+1. Aplicar conhecimentos de **padrões de interface** estudados no curso
 2. Implementar **heurísticas de usabilidade** de Nielsen
 3. Criar um **protótipo funcional** com 5 páginas principais
 4. Demonstrar **boas práticas de UX/UI** em design web
@@ -354,9 +354,10 @@ Seção de impacto visual na página inicial.
 ## 📞 Contato
 
 **Antônio Evangelista Ribeiro Júnior**
-- Email: aerj_ce1@hotmail.com
+- Email: ribeiro.junior@alu.ufc.br
 - Telefone: (85) 99716-5696
 - LinkedIn: @antonioerjunior
+- GitHub: Tom-Junior
 - Localização: Fortaleza, Ceará - Brasil
 
 ---

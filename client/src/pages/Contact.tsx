@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { Mail, Phone, MapPin, Linkedin, Send } from 'lucide-react';
+import { Mail, Phone, MapPin, Linkedin, Github, Send } from 'lucide-react';
 import { toast } from 'sonner';
 
 /**
@@ -154,11 +154,12 @@ export default function Contact() {
                         Email
                       </h3>
                       <a
-                        href="mailto:aerj_ce1@hotmail.com"
+                        href="mailto:ribeiro.junior@alu.ufc.br"
                         className="text-muted-foreground hover:text-primary transition-colors duration-300 font-body text-sm"
                       >
-                        aerj_ce1@hotmail.com
-                      </a>
+                        ribeiro.junior@alu.ufc.br
+                      
+                      </a>                     
                       <p className="text-muted-foreground font-body text-xs mt-1">
                         Respondo em até 24 horas
                       </p>
@@ -175,29 +176,13 @@ export default function Contact() {
                         Telefone
                       </h3>
                       <a
-                        href="tel:+558599716569"
+                        href="tel:+5585997165696"
                         className="text-muted-foreground hover:text-primary transition-colors duration-300 font-body text-sm"
                       >
                         (85) 99716-5696
                       </a>
                       <p className="text-muted-foreground font-body text-xs mt-1">
                         WhatsApp disponível
-                      </p>
-                    </div>
-                  </div>
-
-                  {/* Localização */}
-                  <div className="flex gap-4">
-                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                      <MapPin className="w-5 h-5 text-primary" />
-                    </div>
-                    <div>
-                      <h3 className="font-display font-bold text-foreground mb-1">
-                        Localização
-                      </h3>
-                      <p className="text-muted-foreground font-body text-sm">
-                        Fortaleza, Ceará<br />
-                        Brasil
                       </p>
                     </div>
                   </div>
@@ -219,6 +204,41 @@ export default function Contact() {
                       >
                         @antonioerjunior
                       </a>
+                    </div>
+                  </div>
+                  {/* GitHub */}
+                  <div className="flex gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Github className="w-5 h-5 text-primary" />  
+                    </div>
+                    <div>
+                      <h3 className="font-display font-bold text-foreground mb-1">
+                        GitHub
+                      </h3>
+                      <a
+                        href="https://www.github.com/Tom-Junior/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-muted-foreground hover:text-primary transition-colors duration-300 font-body text-sm"
+                      >
+                        @Tom-Junior
+                      </a>
+                    </div>
+                  </div>
+
+                  {/* Localização */}
+                  <div className="flex gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <MapPin className="w-5 h-5 text-primary" />
+                    </div>
+                    <div>
+                      <h3 className="font-display font-bold text-foreground mb-1">
+                        Localização
+                      </h3>
+                      <p className="text-muted-foreground font-body text-sm">
+                        Fortaleza, Ceará<br />
+                        Brasil
+                      </p>
                     </div>
                   </div>
                 </div>

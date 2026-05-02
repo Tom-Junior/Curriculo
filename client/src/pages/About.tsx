@@ -40,7 +40,7 @@ export default function About() {
     {
       icon: Target,
       title: 'Contabilidade & Finanças',
-      description: 'Especialista em análise fiscal, contábil e gestão financeira com foco em conformidade e otimização.',
+      description: 'Analista fiscal, contábil e economia enegócios com foco em conformidade e otimização.',
     },
     {
       icon: Lightbulb,
@@ -66,7 +66,7 @@ export default function About() {
               Sobre Mim
             </h1>
             <p className="text-lg text-muted-foreground font-body max-w-3xl leading-relaxed">
-              Sou um profissional apaixonado por inovação, educação e transformação digital. Com mais de 15 anos de experiência em contabilidade, finanças e tecnologia, tenho dedicado minha carreira a resolver problemas complexos e ajudar organizações a crescer.
+              Sou um profissional apaixonado por inovação, educação e transformação digital. Com mais de 15 anos de experiência em contabilidade, tenho dedicado minha carreira a resolver problemas complexos e ajudar organizações a crescer.
             </p>
           </div>
         </section>
@@ -102,7 +102,9 @@ export default function About() {
                   Educação e Pesquisa (2023-Presente)
                 </h3>
                 <p className="text-muted-foreground font-body leading-relaxed">
-                  Atualmente, estou cursando MBA em Ciência de Dados Aplicada aos Negócios e Especialização em Matemática Computacional. Tenho participado de projetos de pesquisa e extensão, incluindo iniciativas em cooperativismo indígena e educação. Trabalho como Analista de Faturamento Corporativo na Inpasa, combinando experiência prática com desenvolvimento acadêmico.
+                  Atualmente, estou cursando MBA em Ciência de Dados Aplicada aos Negócios e Especialização em Matemática Computacional e Cursando Graduação Tecnologica em Tecnologia da Informação.
+                  Participei de projetos de pesquisa e extensão, incluindo iniciativas em cooperativismo indígena e educação.
+                  Atuando no Projeto Residência em TIC 44 - Capacitação técnica e empreendedora em Inteligência Artificial - CTE-IA, aprendendo e aplicando conhecimentos em IA para desenvolver soluções inovadoras e impactantes.
                 </p>
               </div>
             </div>

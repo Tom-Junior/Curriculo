@@ -40,7 +40,7 @@ export default function Home() {
                 </div>
 
                 <p className="text-lg text-muted-foreground font-body leading-relaxed">
-                  Especialista em <strong>Contabilidade, Ciência de Dados e Tecnologia</strong> com mais de 15 anos de experiência profissional. Apaixonado por inovação, educação e transformação digital.
+                  Especialista em <strong>Economia e Negócios. Graduado em Contabilidade e Ciência de Dados e Tecnologia da Informação</strong> com mais de 15 anos de experiência em contabilidade. Apaixonado por inovação, educação e transformação digital.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 pt-4">
@@ -60,14 +60,15 @@ export default function Home() {
 
               {/* Imagem/Placeholder */}
               <div className="hidden md:flex items-center justify-center">
-                <div className="w-64 h-64 bg-gradient-to-br from-primary to-primary/50 rounded-2xl flex items-center justify-center">
-                  <div className="text-center text-primary-foreground">
-                    <Award className="w-24 h-24 mx-auto mb-4 opacity-80" />
-                    <p className="font-display font-bold text-lg">Profissional</p>
-                  </div>
+                <div className="relative w-80 h-80 rounded-2xl overflow-hidden shadow-2xl border-4 border-primary/20 hover:shadow-xl transition-shadow duration-300">
+                  <img 
+                    src="/Imagem.png" 
+                    alt="Antônio Evangelista Ribeiro Júnior - Foto Profissional" 
+                    className="w-full h-full object-cover"
+                  />
                 </div>
               </div>
-            </div>
+            </div>            
           </div>
         </section>
 

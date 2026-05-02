@@ -20,10 +20,10 @@ export default function Footer() {
           {/* Sobre */}
           <div>
             <h3 className="font-display font-bold text-lg text-foreground mb-4">
-              Antônio Ribeiro
+              Antônio Júnior
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Especialista em Contabilidade, Ciência de Dados e Tecnologia com foco em inovação e educação.
+              Especialista em Economia e Negócios e Tutor em Educação. Graduado em Contabilidade, Ciência de Dados e Dev. de Software com foco em inovação e educação.
             </p>
           </div>
 
@@ -71,14 +71,15 @@ export default function Footer() {
             </h3>
             <div className="space-y-3">
               <a
-                href="mailto:aerj_ce1@hotmail.com"
+                href="mailto:ribeiro.junior@alu.ufc.br"
                 className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors duration-300 text-sm"
               >
                 <Mail className="w-4 h-4" />
-                aerj_ce1@hotmail.com
+                ribeiro.junior@alu.ufc.br
               </a>
+              
               <a
-                href="tel:+558599716569"
+                href="tel:+5585997165696"
                 className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors duration-300 text-sm"
               >
                 <Phone className="w-4 h-4" />
@@ -95,6 +96,18 @@ export default function Footer() {
                   <Linkedin className="w-5 h-5" />
                 </a>
               </div>
+
+              <div className="flex items-center gap-4 pt-2">
+                <a
+                  href="https://www.github.com/Tom-Junior/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-muted-foreground hover:text-primary transition-colors duration-300"
+                  aria-label="GitHub"
+                >
+                  <Github className="w-5 h-5" />
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -103,7 +116,7 @@ export default function Footer() {
         <div className="border-t border-border pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} Antônio Evangelista Ribeiro Júnior. Todos os direitos reservados.
+              © {currentYear} Antônio Júnior. Todos os direitos reservados.
             </p>
             <Link href="/ajuda">
               <a className="text-muted-foreground hover:text-primary transition-colors duration-300 text-sm">

@@ -20,6 +20,12 @@ import { GraduationCap, Briefcase, Award, FileText } from 'lucide-react';
 
 export default function Resume() {
   const education = [
+     {
+      year: '2026',
+      title: 'Especialização em Matemática Computacional no Ensino Básico',
+      institution: 'Universidade Federal do Pará (UFPA)',
+      status: 'Em andamento',
+    },
     {
       year: '2025',
       title: 'Especialização em Educação em Direitos Humanos',
@@ -30,14 +36,8 @@ export default function Resume() {
       year: '2025',
       title: 'Especialização em Ciência dos Dados Aplicada à Negócios',
       institution: 'Universidade Federal do Ceará (UFC)',
-      status: 'Concluída',
-    },
-    {
-      year: '2025',
-      title: 'Especialização em Matemática Computacional no Ensino Básico',
-      institution: 'Universidade Federal do Pará (UFPA)',
       status: 'Em andamento',
-    },
+    },   
     {
       year: '2024-2025',
       title: 'Especialização em Tutoria em Educação a Distância',
@@ -87,19 +87,19 @@ export default function Resume() {
       description: 'Pesquisa acadêmica e desenvolvimento de projetos de extensão.',
     },
     {
-      year: '2022',
+      year: '2022-Temporário',
       title: 'Analista Fiscal',
       company: 'Grupo Três Corações S/A',
       description: 'Apuração de tributos indiretos (ICMS, IPI, PIS, COFINS), gestão de obrigações acessórias e conformidade fiscal.',
     },
     {
-      year: '2021',
+      year: '2021-2021',
       title: 'Analista Fiscal',
       company: 'Bebidas Fruki S/A',
       description: 'Análise de legislação tributária, simulação de valores de produtos e acompanhamento de insumos para industrialização.',
     },
     {
-      year: '2020',
+      year: '2020-2020',
       title: 'Analista Contábil/Fiscal',
       company: 'Cortez & Ibiapina Advogados',
       description: 'Análise e classificação de contas contábeis, escrituração fiscal e obrigações acessórias.',
@@ -161,10 +161,40 @@ export default function Resume() {
       authors: 'Ribeiro Júnior, A. E.; Espejo, M. M. S. B.',
     },
     {
-      year: '2019',
+      year: '2025',
+      title: 'Análises do Ambiente de Aprendizagem da Disciplina de Gestão de Conteúdos Digitais',
+      type: 'Trabalho de Conclusão de Curso',
+    },
+    {
+      year: '2023',
+      title: 'III Simpósio de Agronegócios e Sustentabilidade',
+      type: 'Simpósio',
+    },
+    {
+      year: '2023',
+      title: 'XX Congresso Brasileiro de Ensino Superior a Distância (ESUD 2023)',
+      type: 'Congresso',
+    },
+     {
+      year: '2023',
+      title: 'IX Congresso Internacional de Educação Superior a Distância (CIESUD 2023)',
+      type: 'Congresso',
+    },
+    {
+      year: '2022',
+      title: 'Auditoria Interna e Sua Relevância para as Organizações',
+      type: 'Trabalho de Conclusão de Curso',
+    },
+    {
+      year: '2018',
       title: 'A Produção Oral em Língua Inglesa no Ensino a Distância: Um Relato de Experiência',
-      event: 'IV Encontro de Tecnodocência - UFC',
+      event: 'Encontro de Tecnodocência - UFC',
       type: 'Apresentação de Trabalho',
+    },
+    {
+      year: '2018',
+      title: 'Produção Oral em Língua Inglesa no Ensino a Distância: Um Relato de Experiência',
+      type: 'Encontros Universitários - UFC',
     },
   ];
 
@@ -286,7 +316,7 @@ export default function Resume() {
           </div>
         </section>
 
-        {/* Publicações e Projetos */}
+        {/* Publicações e Eventos */}
         <section className="py-16 md:py-24 bg-secondary">
           <div className="container max-w-6xl mx-auto px-4">
             <div className="flex items-center gap-3 mb-12">
@@ -294,7 +324,7 @@ export default function Resume() {
                 <FileText className="w-6 h-6 text-primary" />
               </div>
               <h2 className="text-3xl font-display font-bold text-foreground">
-                Publicações e Projetos
+                Publicações e Eventos
               </h2>
             </div>
 
